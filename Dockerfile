@@ -1,5 +1,4 @@
 FROM python:3.10-alpine
-MAINTAINER Nikhil Badyal
 
 
 ENV PYTHONDONTWRITEBYTECODE=1
